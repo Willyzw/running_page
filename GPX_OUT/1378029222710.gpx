@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="25.071552" lon="117.00609">
+        <time>2013-09-01T09:51:01.994000Z</time>
+      </trkpt>
+      <trkpt lat="25.071526" lon="117.00601">
+        <time>2013-09-01T09:51:06.865000Z</time>
+      </trkpt>
+      <trkpt lat="25.07153" lon="117.00589">
+        <time>2013-09-01T09:51:11.736000Z</time>
+      </trkpt>
+      <trkpt lat="25.07153" lon="117.00589">
+        <time>2013-09-01T09:51:16.607000Z</time>
+      </trkpt>
+      <trkpt lat="25.071535" lon="117.005775">
+        <time>2013-09-01T09:51:21.478000Z</time>
+      </trkpt>
+      <trkpt lat="25.071543" lon="117.00566">
+        <time>2013-09-01T09:51:26.349000Z</time>
+      </trkpt>
+      <trkpt lat="25.071577" lon="117.00556">
+        <time>2013-09-01T09:51:31.220000Z</time>
+      </trkpt>
+      <trkpt lat="25.071613" lon="117.005455">
+        <time>2013-09-01T09:51:36.091000Z</time>
+      </trkpt>
+      <trkpt lat="25.071663" lon="117.00536">
+        <time>2013-09-01T09:51:40.961000Z</time>
+      </trkpt>
+      <trkpt lat="25.071722" lon="117.00527">
+        <time>2013-09-01T09:51:45.831000Z</time>
+      </trkpt>
+      <trkpt lat="25.07179" lon="117.00519">
+        <time>2013-09-01T09:51:50.701000Z</time>
+      </trkpt>
+      <trkpt lat="25.071878" lon="117.005135">
+        <time>2013-09-01T09:51:55.571000Z</time>
+      </trkpt>
+      <trkpt lat="25.071957" lon="117.00505">
+        <time>2013-09-01T09:52:00.441000Z</time>
+      </trkpt>
+      <trkpt lat="25.07204" lon="117.004974">
+        <time>2013-09-01T09:52:05.311000Z</time>
+      </trkpt>
+      <trkpt lat="25.072117" lon="117.0049">
+        <time>2013-09-01T09:52:10.181000Z</time>
+      </trkpt>
+      <trkpt lat="25.072208" lon="117.00483">
+        <time>2013-09-01T09:52:15.051000Z</time>
+      </trkpt>
+      <trkpt lat="25.0723" lon="117.00484">
+        <time>2013-09-01T09:52:19.921000Z</time>
+      </trkpt>
+      <trkpt lat="25.072313" lon="117.004944">
+        <time>2013-09-01T09:52:24.791000Z</time>
+      </trkpt>
+      <trkpt lat="25.072252" lon="117.00505">
+        <time>2013-09-01T09:52:29.661000Z</time>
+      </trkpt>
+      <trkpt lat="25.072157" lon="117.00511">
+        <time>2013-09-01T09:52:34.531000Z</time>
+      </trkpt>
+      <trkpt lat="25.072086" lon="117.00518">
+        <time>2013-09-01T09:52:39.401000Z</time>
+      </trkpt>
+      <trkpt lat="25.07205" lon="117.00529">
+        <time>2013-09-01T09:52:44.271000Z</time>
+      </trkpt>
+      <trkpt lat="25.07204" lon="117.0054">
+        <time>2013-09-01T09:52:49.141000Z</time>
+      </trkpt>
+      <trkpt lat="25.072012" lon="117.00551">
+        <time>2013-09-01T09:52:54.011000Z</time>
+      </trkpt>
+      <trkpt lat="25.071974" lon="117.00562">
+        <time>2013-09-01T09:52:58.881000Z</time>
+      </trkpt>
+      <trkpt lat="25.071905" lon="117.00569">
+        <time>2013-09-01T09:53:03.751000Z</time>
+      </trkpt>
+      <trkpt lat="25.071842" lon="117.00577">
+        <time>2013-09-01T09:53:08.621000Z</time>
+      </trkpt>
+      <trkpt lat="25.071823" lon="117.00587">
+        <time>2013-09-01T09:53:13.491000Z</time>
+      </trkpt>
+      <trkpt lat="25.07181" lon="117.006004">
+        <time>2013-09-01T09:53:18.361000Z</time>
+      </trkpt>
+      <trkpt lat="25.071775" lon="117.0061">
+        <time>2013-09-01T09:53:23.231000Z</time>
+      </trkpt>
+      <trkpt lat="25.07173" lon="117.00621">
+        <time>2013-09-01T09:53:28.101000Z</time>
+      </trkpt>
+      <trkpt lat="25.071712" lon="117.006325">
+        <time>2013-09-01T09:53:32.971000Z</time>
+      </trkpt>
+      <trkpt lat="25.07169" lon="117.00645">
+        <time>2013-09-01T09:53:37.841000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

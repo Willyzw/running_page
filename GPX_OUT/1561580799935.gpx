@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.79042106952059" lon="9.018162180421292">
+        <time>2019-06-26T20:10:26.411000Z</time>
+      </trkpt>
+      <trkpt lat="48.79042106952059" lon="9.018162180421292">
+        <time>2019-06-26T20:10:29.889000Z</time>
+      </trkpt>
+      <trkpt lat="48.79042106952059" lon="9.018162180421292">
+        <time>2019-06-26T20:10:35.798000Z</time>
+      </trkpt>
+      <trkpt lat="48.79049946982625" lon="9.017997957670847">
+        <time>2019-06-26T20:10:35.841000Z</time>
+      </trkpt>
+      <trkpt lat="48.79049946982625" lon="9.017997957670847">
+        <time>2019-06-26T20:10:43.636000Z</time>
+      </trkpt>
+      <trkpt lat="48.79049946982625" lon="9.017997957670847">
+        <time>2019-06-26T20:10:53.646000Z</time>
+      </trkpt>
+      <trkpt lat="48.789683222272366" lon="9.018908913640647">
+        <time>2019-06-26T20:14:42.849000Z</time>
+      </trkpt>
+      <trkpt lat="48.78959092925404" lon="9.018891994291208">
+        <time>2019-06-26T20:14:45.842000Z</time>
+      </trkpt>
+      <trkpt lat="48.78948637541832" lon="9.018858097178983">
+        <time>2019-06-26T20:14:51.820000Z</time>
+      </trkpt>
+      <trkpt lat="48.7894011117338" lon="9.018784352552434">
+        <time>2019-06-26T20:14:57.877000Z</time>
+      </trkpt>
+      <trkpt lat="48.7893059609623" lon="9.018694878437504">
+        <time>2019-06-26T20:15:01.875000Z</time>
+      </trkpt>
+      <trkpt lat="48.789219308562075" lon="9.018642748101863">
+        <time>2019-06-26T20:15:07.828000Z</time>
+      </trkpt>
+      <trkpt lat="48.789219308562075" lon="9.018642748101863">
+        <time>2019-06-26T20:15:20.743000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

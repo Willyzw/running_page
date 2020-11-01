@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.794105484" lon="9.012152343">
+        <time>2018-12-08T17:33:29.595000Z</time>
+      </trkpt>
+      <trkpt lat="48.794045649" lon="9.01227776">
+        <time>2018-12-08T17:33:30.198000Z</time>
+      </trkpt>
+      <trkpt lat="48.793905066" lon="9.012369845">
+        <time>2018-12-08T17:33:34.468000Z</time>
+      </trkpt>
+      <trkpt lat="48.793756225" lon="9.012418879">
+        <time>2018-12-08T17:33:37.456000Z</time>
+      </trkpt>
+      <trkpt lat="48.793653039" lon="9.012436862">
+        <time>2018-12-08T17:33:43.431000Z</time>
+      </trkpt>
+      <trkpt lat="48.79355918" lon="9.012463334">
+        <time>2018-12-08T17:33:48.432000Z</time>
+      </trkpt>
+      <trkpt lat="48.793499858" lon="9.012585954">
+        <time>2018-12-08T17:33:53.470000Z</time>
+      </trkpt>
+      <trkpt lat="48.79345477" lon="9.012717838">
+        <time>2018-12-08T17:33:56.472000Z</time>
+      </trkpt>
+      <trkpt lat="48.793417987" lon="9.012875183">
+        <time>2018-12-08T17:34:00.476000Z</time>
+      </trkpt>
+      <trkpt lat="48.793386609" lon="9.013018471">
+        <time>2018-12-08T17:34:04.478000Z</time>
+      </trkpt>
+      <trkpt lat="48.793345562" lon="9.013167839">
+        <time>2018-12-08T17:34:09.420000Z</time>
+      </trkpt>
+      <trkpt lat="48.793287185" lon="9.01331241">
+        <time>2018-12-08T17:34:14.466000Z</time>
+      </trkpt>
+      <trkpt lat="48.793219169" lon="9.013418374">
+        <time>2018-12-08T17:34:19.456000Z</time>
+      </trkpt>
+      <trkpt lat="48.793128104" lon="9.013519457">
+        <time>2018-12-08T17:34:24.415000Z</time>
+      </trkpt>
+      <trkpt lat="48.793049095" lon="9.013605449">
+        <time>2018-12-08T17:34:28.461000Z</time>
+      </trkpt>
+      <trkpt lat="48.792969759" lon="9.013687165">
+        <time>2018-12-08T17:34:32.483000Z</time>
+      </trkpt>
+      <trkpt lat="48.793039068" lon="9.013568724">
+        <time>2018-12-08T17:34:41.483000Z</time>
+      </trkpt>
+      <trkpt lat="48.793124048" lon="9.013479127">
+        <time>2018-12-08T17:34:47.426000Z</time>
+      </trkpt>
+      <trkpt lat="48.793194514" lon="9.01338887">
+        <time>2018-12-08T17:34:52.429000Z</time>
+      </trkpt>
+      <trkpt lat="48.793271147" lon="9.01328487">
+        <time>2018-12-08T17:34:57.418000Z</time>
+      </trkpt>
+      <trkpt lat="48.793328349" lon="9.013178776">
+        <time>2018-12-08T17:35:01.439000Z</time>
+      </trkpt>
+      <trkpt lat="48.793382093" lon="9.013035318">
+        <time>2018-12-08T17:35:06.434000Z</time>
+      </trkpt>
+      <trkpt lat="48.793429947" lon="9.012884441">
+        <time>2018-12-08T17:35:11.445000Z</time>
+      </trkpt>
+      <trkpt lat="48.793468193" lon="9.012727348">
+        <time>2018-12-08T17:35:16.424000Z</time>
+      </trkpt>
+      <trkpt lat="48.793500075" lon="9.012585896">
+        <time>2018-12-08T17:35:21.461000Z</time>
+      </trkpt>
+      <trkpt lat="48.793544979" lon="9.01246289">
+        <time>2018-12-08T17:35:26.420000Z</time>
+      </trkpt>
+      <trkpt lat="48.793642813" lon="9.012411235">
+        <time>2018-12-08T17:35:31.464000Z</time>
+      </trkpt>
+      <trkpt lat="48.79373567" lon="9.012333346">
+        <time>2018-12-08T17:35:36.427000Z</time>
+      </trkpt>
+      <trkpt lat="48.793754201" lon="9.012170375">
+        <time>2018-12-08T17:35:41.428000Z</time>
+      </trkpt>
+      <trkpt lat="48.793762884" lon="9.012024778">
+        <time>2018-12-08T17:35:46.411000Z</time>
+      </trkpt>
+      <trkpt lat="48.793750117" lon="9.011886381">
+        <time>2018-12-08T17:35:51.469000Z</time>
+      </trkpt>
+      <trkpt lat="48.793739126" lon="9.011734378">
+        <time>2018-12-08T17:35:58.467000Z</time>
+      </trkpt>
+      <trkpt lat="48.793739126" lon="9.011734378">
+        <time>2018-12-08T17:36:04.403000Z</time>
+      </trkpt>
+      <trkpt lat="48.793660996" lon="9.011646028">
+        <time>2018-12-08T17:36:09.456000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
