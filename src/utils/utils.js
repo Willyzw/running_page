@@ -17,6 +17,7 @@ const titleForShow = (run) => {
 };
 
 const formatPace = (d) => {
+  if (Number.isNaN(d)) return '0';
   const pace = (1000.0 / 60.0) * (1.0 / d);
   const minutes = Math.floor(pace);
   const seconds = Math.floor((pace - minutes) * 60.0);
@@ -36,8 +37,8 @@ const locationForRun = (run) => {
   let [city, province, country] = ['', '', ''];
   if (location) {
     // Only for Chinese now
-    const cityMatch = location.match(/[\u4e00-\u9fa5]*市/);
-    const provinceMatch = location.match(/[\u4e00-\u9fa5]*省/);
+    const cityMatch = location.match(/[\u4e00-\u9fa5]*(市|自治州)/);
+    const provinceMatch = location.match(/[\u4e00-\u9fa5]*(省|自治区)/);
     if (cityMatch) {
       [city] = cityMatch;
     }
@@ -61,7 +62,7 @@ const locationForRun = (run) => {
   return { country, province, city };
 };
 
-const intComma = (x) => x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+const intComma = (x = '') => x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 
 const pathForRun = (run) => {
   try {
@@ -163,7 +164,7 @@ const filterAndSortRuns = (activities, year, sortFunc) => {
 };
 
 const sortDateFunc = (a, b) => new Date(b.start_date_local.replace(' ', 'T')) - new Date(a.start_date_local.replace(' ', 'T'));
-const sortDateFuncReverse = (a, b) => new Date(a.start_date_local.replace(' ', 'T')) - new Date(b.start_date_local.replace(' ', 'T'));
+const sortDateFuncReverse = (a, b) => sortDateFunc(b, a);
 
 export {
   titleForShow, formatPace, scrollToMap, locationForRun, intComma, pathForRun, geoJsonForRuns, geoJsonForMap, titleForRun, filterYearRuns, filterAndSortRuns, sortDateFunc, sortDateFuncReverse, getBoundsForGeoData,
