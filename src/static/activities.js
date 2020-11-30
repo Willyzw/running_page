@@ -1888,6 +1888,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.000704329235271,
     "streak": 1
+  },
+  {
+    "run_id": 1606660605020,
+    "name": "run from gpx",
+    "distance": 2388.622230516356,
+    "moving_time": "0:17:16.979000",
+    "type": "Run",
+    "start_date": "2020-11-29 14:36:45",
+    "start_date_local": "2020-11-29 15:36:45",
+    "location_country": "43, Ostertagstra\u00dfe, Eltingen, Leonberg, Landkreis B\u00f6blingen, Baden-W\u00fcrttemberg, 71229, Deutschland",
+    "summary_polyline": "{`yhHod_v@`ByAL}BlCyFjDcCLmDaCwLz@sBD{A`DiDvNrIpC`DtB`@bB~Dm@f@Ft@mAfFmBbGqDmCsAlDeI_Cg@Nu@dDgJ~AmDrD",
+    "average_heartrate": null,
+    "average_speed": 2.3034432042658106,
+    "streak": 1
   }
 ];
 
