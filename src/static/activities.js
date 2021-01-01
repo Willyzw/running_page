@@ -1902,6 +1902,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.3034432042658106,
     "streak": 1
+  },
+  {
+    "run_id": 1609512272738,
+    "name": "run from gpx",
+    "distance": 3237.816073815513,
+    "moving_time": "0:25:05.261000",
+    "type": "Run",
+    "start_date": "2021-01-01 14:44:32",
+    "start_date_local": "2021-01-01 15:44:32",
+    "location_country": "43, Ostertagstra\u00dfe, Eltingen, Leonberg, Grafenau (W\u00fcrttemberg), Landkreis B\u00f6blingen, Baden-W\u00fcrttemberg, 71229, Deutschland",
+    "summary_polyline": "m`yhH_c_v@h@cBj@KVyCtBeFzDuCDkEcCaLvAaFvCoCdHnFrEnBpC|CpBRzAvDo@n@HtAa@TgAkDsBsB{AYm@v@iB_AgEi@aG{FwBhAeCRyH`FeBbFwBzAwAzN_AzCCvDvCtCdEPx@OH}BxBKEg@",
+    "average_heartrate": null,
+    "average_speed": 2.1509997759959987,
+    "streak": 1
   }
 ];
 
